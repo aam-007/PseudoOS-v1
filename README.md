@@ -1,2 +1,5 @@
-# PseudoOS-v1
-CLI based OS emulator
+# PseduOS
+# -By Aditya Mishra
+
+
+run os.py
